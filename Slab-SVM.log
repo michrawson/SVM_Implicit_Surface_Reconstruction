@@ -1,0 +1,459 @@
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 500.0 risk 0.0
+[1]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[2]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[3]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[4]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[5]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[6]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[7]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[8]   Done                    python Slab-SVM.py $file_name $v $sigma
+[9]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[10]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[11]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[12]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[13]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9999 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 500.0 risk 0.0
+[1]   Done                    python Slab-SVM.py $file_name $v $sigma
+[2]   Done                    python Slab-SVM.py $file_name $v $sigma
+[3]   Done                    python Slab-SVM.py $file_name $v $sigma
+[4]   Done                    python Slab-SVM.py $file_name $v $sigma
+[5]   Done                    python Slab-SVM.py $file_name $v $sigma
+[6]   Done                    python Slab-SVM.py $file_name $v $sigma
+[7]   Done                    python Slab-SVM.py $file_name $v $sigma
+[9]   Done                    python Slab-SVM.py $file_name $v $sigma
+[10]   Done                    python Slab-SVM.py $file_name $v $sigma
+[11]   Done                    python Slab-SVM.py $file_name $v $sigma
+[12]   Done                    python Slab-SVM.py $file_name $v $sigma
+[13]   Done                    python Slab-SVM.py $file_name $v $sigma
+[14]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[15]   Done                    python Slab-SVM.py $file_name $v $sigma
+[16]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[17]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[18]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[19]   Done                    python Slab-SVM.py $file_name $v $sigma
+[20]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[21]   Done                    python Slab-SVM.py $file_name $v $sigma
+[22]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[23]   Done                    python Slab-SVM.py $file_name $v $sigma
+[24]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[25]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[26]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.999 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 500.0 risk 0.0
+[14]   Done                    python Slab-SVM.py $file_name $v $sigma
+[16]   Done                    python Slab-SVM.py $file_name $v $sigma
+[17]   Done                    python Slab-SVM.py $file_name $v $sigma
+[18]   Done                    python Slab-SVM.py $file_name $v $sigma
+[20]   Done                    python Slab-SVM.py $file_name $v $sigma
+[22]   Done                    python Slab-SVM.py $file_name $v $sigma
+[24]   Done                    python Slab-SVM.py $file_name $v $sigma
+[25]   Done                    python Slab-SVM.py $file_name $v $sigma
+[26]   Done                    python Slab-SVM.py $file_name $v $sigma
+[27]   Done                    python Slab-SVM.py $file_name $v $sigma
+[28]   Done                    python Slab-SVM.py $file_name $v $sigma
+[29]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[30]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[31]   Done                    python Slab-SVM.py $file_name $v $sigma
+[32]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[33]   Done                    python Slab-SVM.py $file_name $v $sigma
+[34]   Done                    python Slab-SVM.py $file_name $v $sigma
+[35]   Done                    python Slab-SVM.py $file_name $v $sigma
+[36]   Done                    python Slab-SVM.py $file_name $v $sigma
+[37]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[38]-  Done                    python Slab-SVM.py $file_name $v $sigma
+[39]+  Done                    python Slab-SVM.py $file_name $v $sigma
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 500.0 risk 0.0
+[29]   Done                    python Slab-SVM.py $file_name $v $sigma
+[30]   Done                    python Slab-SVM.py $file_name $v $sigma
+[32]   Done                    python Slab-SVM.py $file_name $v $sigma
+[37]   Done                    python Slab-SVM.py $file_name $v $sigma
+[38]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[39]   Done                    python Slab-SVM.py $file_name $v $sigma
+[40]   Done                    python Slab-SVM.py $file_name $v $sigma
+[41]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[42]   Done                    python Slab-SVM.py $file_name $v $sigma
+[43]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[44]   Done                    python Slab-SVM.py $file_name $v $sigma
+[45]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[46]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[47]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[48]   Done                    python Slab-SVM.py $file_name $v $sigma
+[49]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[50]+  Done                    python Slab-SVM.py $file_name $v $sigma
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.99 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 500.0 risk 0.0
+[38]   Done                    python Slab-SVM.py $file_name $v $sigma
+[41]   Done                    python Slab-SVM.py $file_name $v $sigma
+[43]   Done                    python Slab-SVM.py $file_name $v $sigma
+[45]   Done                    python Slab-SVM.py $file_name $v $sigma
+[46]   Done                    python Slab-SVM.py $file_name $v $sigma
+[47]   Done                    python Slab-SVM.py $file_name $v $sigma
+[49]   Done                    python Slab-SVM.py $file_name $v $sigma
+[50]   Done                    python Slab-SVM.py $file_name $v $sigma
+[51]   Done                    python Slab-SVM.py $file_name $v $sigma
+[52]   Done                    python Slab-SVM.py $file_name $v $sigma
+[53]   Done                    python Slab-SVM.py $file_name $v $sigma
+[54]   Done                    python Slab-SVM.py $file_name $v $sigma
+[55]   Done                    python Slab-SVM.py $file_name $v $sigma
+[56]   Done                    python Slab-SVM.py $file_name $v $sigma
+[57]   Done                    python Slab-SVM.py $file_name $v $sigma
+[58]   Done                    python Slab-SVM.py $file_name $v $sigma
+[59]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[60]   Done                    python Slab-SVM.py $file_name $v $sigma
+[61]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[62]+  Done                    python Slab-SVM.py $file_name $v $sigma
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.9 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 500.0 risk 0.0
+[59]   Done                    python Slab-SVM.py $file_name $v $sigma
+[61]   Done                    python Slab-SVM.py $file_name $v $sigma
+[62]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[63]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[64]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[65]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[66]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[67]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[68]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[69]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[70]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[71]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[72]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[73]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[74]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.8 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 500.0 risk 0.0
+[62]   Done                    python Slab-SVM.py $file_name $v $sigma
+[63]   Done                    python Slab-SVM.py $file_name $v $sigma
+[64]   Done                    python Slab-SVM.py $file_name $v $sigma
+[65]   Done                    python Slab-SVM.py $file_name $v $sigma
+[66]   Done                    python Slab-SVM.py $file_name $v $sigma
+[67]   Done                    python Slab-SVM.py $file_name $v $sigma
+[68]   Done                    python Slab-SVM.py $file_name $v $sigma
+[69]   Done                    python Slab-SVM.py $file_name $v $sigma
+[70]   Done                    python Slab-SVM.py $file_name $v $sigma
+[71]   Done                    python Slab-SVM.py $file_name $v $sigma
+[72]   Done                    python Slab-SVM.py $file_name $v $sigma
+[73]   Done                    python Slab-SVM.py $file_name $v $sigma
+[74]   Done                    python Slab-SVM.py $file_name $v $sigma
+[75]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[76]   Done                    python Slab-SVM.py $file_name $v $sigma
+[77]   Done                    python Slab-SVM.py $file_name $v $sigma
+[78]   Done                    python Slab-SVM.py $file_name $v $sigma
+[79]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[80]   Done                    python Slab-SVM.py $file_name $v $sigma
+[81]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[82]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[83]   Done                    python Slab-SVM.py $file_name $v $sigma
+[84]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[85]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[86]-  Done                    python Slab-SVM.py $file_name $v $sigma
+[87]+  Done                    python Slab-SVM.py $file_name $v $sigma
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.7 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 500.0 risk 0.0
+[75]   Done                    python Slab-SVM.py $file_name $v $sigma
+[79]   Done                    python Slab-SVM.py $file_name $v $sigma
+[81]   Done                    python Slab-SVM.py $file_name $v $sigma
+[82]   Done                    python Slab-SVM.py $file_name $v $sigma
+[84]   Done                    python Slab-SVM.py $file_name $v $sigma
+[85]   Done                    python Slab-SVM.py $file_name $v $sigma
+[86]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[87]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[88]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[89]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[90]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[91]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[92]   Done                    python Slab-SVM.py $file_name $v $sigma
+[93]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[94]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[95]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[96]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[97]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[98]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.6 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 500.0 risk 0.0
+[86]   Done                    python Slab-SVM.py $file_name $v $sigma
+[87]   Done                    python Slab-SVM.py $file_name $v $sigma
+[88]   Done                    python Slab-SVM.py $file_name $v $sigma
+[89]   Done                    python Slab-SVM.py $file_name $v $sigma
+[90]   Done                    python Slab-SVM.py $file_name $v $sigma
+[91]   Done                    python Slab-SVM.py $file_name $v $sigma
+[93]   Done                    python Slab-SVM.py $file_name $v $sigma
+[94]   Done                    python Slab-SVM.py $file_name $v $sigma
+[95]   Done                    python Slab-SVM.py $file_name $v $sigma
+[96]   Done                    python Slab-SVM.py $file_name $v $sigma
+[97]   Done                    python Slab-SVM.py $file_name $v $sigma
+[98]   Done                    python Slab-SVM.py $file_name $v $sigma
+[99]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[100]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[101]   Done                    python Slab-SVM.py $file_name $v $sigma
+[102]   Done                    python Slab-SVM.py $file_name $v $sigma
+[103]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[104]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[105]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[106]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[107]   Done                    python Slab-SVM.py $file_name $v $sigma
+[108]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[109]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[110]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[111]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.5 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 500.0 risk 0.0
+[99]   Done                    python Slab-SVM.py $file_name $v $sigma
+[100]   Done                    python Slab-SVM.py $file_name $v $sigma
+[103]   Done                    python Slab-SVM.py $file_name $v $sigma
+[104]   Done                    python Slab-SVM.py $file_name $v $sigma
+[105]   Done                    python Slab-SVM.py $file_name $v $sigma
+[106]   Done                    python Slab-SVM.py $file_name $v $sigma
+[108]   Done                    python Slab-SVM.py $file_name $v $sigma
+[109]   Done                    python Slab-SVM.py $file_name $v $sigma
+[110]   Done                    python Slab-SVM.py $file_name $v $sigma
+[111]   Done                    python Slab-SVM.py $file_name $v $sigma
+[112]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[113]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[114]   Done                    python Slab-SVM.py $file_name $v $sigma
+[115]   Done                    python Slab-SVM.py $file_name $v $sigma
+[116]   Done                    python Slab-SVM.py $file_name $v $sigma
+[117]   Done                    python Slab-SVM.py $file_name $v $sigma
+[118]   Done                    python Slab-SVM.py $file_name $v $sigma
+[119]   Done                    python Slab-SVM.py $file_name $v $sigma
+[120]   Done                    python Slab-SVM.py $file_name $v $sigma
+[121]   Done                    python Slab-SVM.py $file_name $v $sigma
+[122]   Done                    python Slab-SVM.py $file_name $v $sigma
+[123]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[124]+  Done                    python Slab-SVM.py $file_name $v $sigma
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.4 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 500.0 risk 0.0
+[112]   Done                    python Slab-SVM.py $file_name $v $sigma
+[113]   Done                    python Slab-SVM.py $file_name $v $sigma
+[123]   Done                    python Slab-SVM.py $file_name $v $sigma
+[124]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[125]   Done                    python Slab-SVM.py $file_name $v $sigma
+[126]   Done                    python Slab-SVM.py $file_name $v $sigma
+[127]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[128]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[129]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[130]   Done                    python Slab-SVM.py $file_name $v $sigma
+[131]   Done                    python Slab-SVM.py $file_name $v $sigma
+[132]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[133]   Done                    python Slab-SVM.py $file_name $v $sigma
+[134]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[135]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[136]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.3 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 500.0 risk 0.0
+[124]   Done                    python Slab-SVM.py $file_name $v $sigma
+[127]   Done                    python Slab-SVM.py $file_name $v $sigma
+[128]   Done                    python Slab-SVM.py $file_name $v $sigma
+[129]   Done                    python Slab-SVM.py $file_name $v $sigma
+[132]   Done                    python Slab-SVM.py $file_name $v $sigma
+[134]   Done                    python Slab-SVM.py $file_name $v $sigma
+[135]   Done                    python Slab-SVM.py $file_name $v $sigma
+[136]   Done                    python Slab-SVM.py $file_name $v $sigma
+[137]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[138]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[139]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[140]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[141]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[142]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[143]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[144]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[145]   Done                    python Slab-SVM.py $file_name $v $sigma
+[146]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[147]   Done                    python Slab-SVM.py $file_name $v $sigma
+[148]-  Running                 python Slab-SVM.py $file_name $v $sigma &
+[149]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.2 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 60.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 130.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 500.0 risk 0.0
+[137]   Done                    python Slab-SVM.py $file_name $v $sigma
+[138]   Done                    python Slab-SVM.py $file_name $v $sigma
+[139]   Done                    python Slab-SVM.py $file_name $v $sigma
+[140]   Done                    python Slab-SVM.py $file_name $v $sigma
+[141]   Done                    python Slab-SVM.py $file_name $v $sigma
+[142]   Done                    python Slab-SVM.py $file_name $v $sigma
+[143]   Done                    python Slab-SVM.py $file_name $v $sigma
+[144]   Done                    python Slab-SVM.py $file_name $v $sigma
+[146]   Done                    python Slab-SVM.py $file_name $v $sigma
+[148]   Done                    python Slab-SVM.py $file_name $v $sigma
+[149]   Done                    python Slab-SVM.py $file_name $v $sigma
+[150]   Done                    python Slab-SVM.py $file_name $v $sigma
+[151]   Done                    python Slab-SVM.py $file_name $v $sigma
+[152]   Done                    python Slab-SVM.py $file_name $v $sigma
+[153]   Done                    python Slab-SVM.py $file_name $v $sigma
+[154]   Done                    python Slab-SVM.py $file_name $v $sigma
+[155]   Running                 python Slab-SVM.py $file_name $v $sigma &
+[156]   Done                    python Slab-SVM.py $file_name $v $sigma
+[157]   Done                    python Slab-SVM.py $file_name $v $sigma
+[158]   Done                    python Slab-SVM.py $file_name $v $sigma
+[159]   Done                    python Slab-SVM.py $file_name $v $sigma
+[160]   Done                    python Slab-SVM.py $file_name $v $sigma
+[161]-  Done                    python Slab-SVM.py $file_name $v $sigma
+[162]+  Running                 python Slab-SVM.py $file_name $v $sigma &
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.1 sigma 200.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 70.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 120.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 110.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 80.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 90.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 5.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 50.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 100.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 20.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 10.0 risk 0.0
+bun000.ply points: 40256 subsample: 402 v 0.01 sigma 500.0 risk 0.0
