@@ -112,6 +112,7 @@ $$
 Where $H$ in a reproducing kernel Hilbert space, $\xi_i^{(*)}$ are slack variables, and $\delta$ is the slab width.\\
 
 \section{Experimental Results}~\\
+
 In all our experiments we used a Gaussian kernel while tuning the $\sigma$ parameter. We optimize upon the primal problem using Newton's method with Armijo backtracking line search, where the iterations are
 $$
 x_{n+1} = x_n - [Hf(x_n)]^{-1}\nabla f(x_n), ~n \ge 0.
@@ -128,10 +129,10 @@ We also plot a scatter plot of the level set to contrast.\\
 Stanford Bunny:
 \includegraphics[scale=.6]{rabbit_scatter.ps}
 
-We notice that has sigma grows, some eigenvalues of the Gram matrix move towards 0. These eigenvalues often can become negative due to machine precision, and then we cannot proceed with a non-positive semi-definite matrix.\\
-\\
+We notice that as $\sigma$ grows, some eigenvalues of the Gram matrix move towards 0. These eigenvalues often can become negative due to machine precision, and then we cannot proceed with a non-positive semi-definite matrix.\\
+
 We also implement incomplete Cholesky decomposition, but as this drops low eigenvalues, we again run into the same problem with non-positive semi-definite Kernel matrices due to machine precision.\\
-~\\
+
 We notice that as the data size grows, inverting the Hessian grows at $n^3$. To combat this, we can optimize with steepest descent or a Jacobian approximation. The trade off is of course that the descent takes longer to run since we're not taking advantage of quadratic convergence. \\
 \\
 
