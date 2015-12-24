@@ -93,8 +93,8 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdf@ifprimitive is avalable.
+Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
@@ -134,37 +134,39 @@ File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `final' set `true' on input line 4319.
 Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count92
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen106
-\Fld@menulength=\count93
-\Field@Width=\dimen107
-\Fld@charsize=\dimen108
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring ON on input line 6313.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count94
-\c@Item=\count95
-\c@Hfootnote=\count96
-)
+
+/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty:4319: Packag
+e hyperref Error: Wrong DVI mode driver option `pdfmark',
+(hyperref)                because pdfTeX or LuaTeX is running in PDF mode.
+
+See the hyperref package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4319 \ProcessKeyvalOptions{Hyp}
+                                 
+? 
+/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty:4319: Emerge
+ncy stop.
+ ...                                              
+                                                  
+l.4319 \ProcessKeyvalOptions{Hyp}
+                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 3419 strings out of 493089
+ 49998 string characters out of 6134842
+ 123185 words of memory out of 5000000
+ 6940 multiletter control sequences out of 15000+600000
+ 3940 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,0n,21p,218b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty:4319:  ==> F
+atal error occurred, no output PDF file produced!
 
 Package hyperref Message: Driver: hdvips.
 
