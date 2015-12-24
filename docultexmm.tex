@@ -123,7 +123,7 @@ We notice that if the slab width, $\delta$, is 0, then in practice we can pre-co
 \\
 We notice that has sigma grows, some eigenvalues of the Gram matrix move towards 0. These eigenvalues often can become negative due to machine precision, and then we cannot proceed with a non-positive semi-definite matrix.\\
 \\
-We also run implement incomplete Cholesky decomposition, but as this drops low eigenvalues, we again run into the same problem with non-positive semi-definite Kernel matrices due to machine precision.\\
+We also implement incomplete Cholesky decomposition, but as this drops low eigenvalues, we again run into the same problem with non-positive semi-definite Kernel matrices due to machine precision.\\
 ~\\
 We notice that as the data size grows, inverting the Hessian grows at $n^3$. To combat this, we can optimize with steepest descent or a Jacobian approximation. The trade off is of course that the descent takes longer to run since we're not taking advantage of quadratic convergence. \\
 \\
@@ -132,7 +132,7 @@ We notice that as the data size grows, inverting the Hessian grows at $n^3$. To 
 
 Scaling with large datasets is becoming more important as computing capacity grows. 
 3D printers are also becoming more powerful and need accurate models to be useful.
-Manipulating all of this data together, at once, is too taxing for hardware. Thus using more compact models is highly desirable for many of these applications.
+Manipulating all of this data together, at once, is too taxing for hardware. Thus using more compact models is highly desirable for many of these applications. 
 
 
 ~\\
