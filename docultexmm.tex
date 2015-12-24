@@ -121,9 +121,11 @@ Where $f$ is the objective function to minimize and $H$ is the Hessian.
 \\
 We notice that if the slab width, $\delta$, is 0, then in practice we can pre-compute the Hessian and it's decomposition with the Cholesky method, $n^3/3$ FLOPs. We plot volumetric data using marching cubes algorithm.\\
 
+Stanford Bunny:
 \includegraphics[scale=.5]{rabbit_marching.ps}\\
 \\
 We also plot a scatter plot of the level set to contrast.\\
+Stanford Bunny:
 \includegraphics[scale=.6]{rabbit_scatter.ps}
 
 We notice that has sigma grows, some eigenvalues of the Gram matrix move towards 0. These eigenvalues often can become negative due to machine precision, and then we cannot proceed with a non-positive semi-definite matrix.\\
